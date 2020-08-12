@@ -17,8 +17,8 @@ title: Gray
 email: email@email.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lorem Ipsum
-url: "https://brunofolle.com.br" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://qpapple.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
@@ -34,12 +34,12 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude: [
-  'Gemfile', 
-  'Gemfile.lock', 
-  'node_modules', 
+  'Gemfile',
+  'Gemfile.lock',
+  'node_modules',
   'Gemfile',
   'gray.gemspec',
-  'Gulpfife.js', 
+  'Gulpfife.js',
   'package.json',
   'package-lock.json',
   'LICENSE.txt',
@@ -75,8 +75,8 @@ googleverify: ''
 #email formspree
 emailform: email@email.com
 
-#disqus 
-disqus_user: 
+#disqus
+disqus_user:
 
 #about-me
 aboutme: Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, odit? Quibusdam atque laudantium debitis, officia esse nobis dolor, dolorem error eum, eos ea. Illum quae recusandae deserunt quo, minus ex!
