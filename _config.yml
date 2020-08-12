@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
-theme: gray
+#theme: gray
 permalink: /:title/
 plugins:
   - jekyll-feed
